@@ -51,9 +51,11 @@
 .blue {
   background-color: #007183;
   color: white;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
+}
+
+.darkblue {
+  background-color: #00323A;
+  color: white;
 }
 
 .vertical-middle {
@@ -66,4 +68,10 @@
 
 .bottom {
   background-color: whitesmoke;
+}
+
+.email {
+  color: white;
+  font-size: 32px;
+  margin-top: 30px;
 }
