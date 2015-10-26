@@ -1,17 +1,62 @@
+.body {
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.underline:hover, .underline:focus {
+  color: lightgrey;
+}
+
+.navbar {
+  margin: 15px;
+}
+
 .bg-image {
-  background-image: url("./static/qnc.png");
-  background-color: white;
+  background-image: url("./static/arch.jpg");
   color: teal;
-  background-position: left bottom;
-  background-size: auto 100%;
+  background-position: right top;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 240px;
+}
+
+.bg-image-2 {
+  background-image: url("./static/pharm.jpg");
+  background-color: teal;
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-image-3 {
+  background-image: url("./static/qnc.jpg");
+  background-color: teal;
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-image-uw {
+  background-image: url("./static/uw_logo.png");
+  background-color: teal;
+  background-position: center center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  
 }
 
 .btn-primary {
   border-color: #1D1D1D;
   background-color: rgba(0, 170, 255, 0.65);
-  font-size: 27px;
+  font-size: 20px;
 }
 
 .bg-pattern {
@@ -27,8 +72,11 @@
 }
 
 .social {
+  color: white;
+  font-size: 27px;
   max-height: 72px;
   margin-right: 15px;
+  margin-bottom: 5px;
 }
 
 .lead {
@@ -48,6 +96,12 @@
   padding-bottom: 30px;
 }
 
+.spaced {
+  padding: 15%;
+  color: white;
+  font-size: 18px;
+}
+
 .narrow {
   margin-left: 10%;
   margin-right: 10%;
@@ -60,7 +114,18 @@
 
 .top-pad {
   padding-top: 30px;
-  margin-top: 30px;
+}
+
+.top-margin {
+  margin-top: 72px;
+}
+
+.top-margin-light {
+  margin-top: 20px;
+}
+
+.left-margin {
+  margin-left: 10px;
 }
 
 .blue {
@@ -83,10 +148,4 @@
 
 .bottom {
   background-color: whitesmoke;
-}
-
-.email {
-  color: white;
-  font-size: 32px;
-  margin-top: 30px;
 }
