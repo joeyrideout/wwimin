@@ -124,6 +124,10 @@ a {
   margin-top: 20px;
 }
 
+.bottom-margin-light {
+  margin-bottom: 5px;
+}
+
 .left-margin {
   margin-left: 10px;
 }
