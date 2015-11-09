@@ -55,7 +55,7 @@ a {
 
 .btn-primary {
   border-color: #1D1D1D;
-  background-color: rgba(0, 170, 255, 0.65);
+  background-color: rgba(0, 128, 128, 0.75);
   font-size: 20px;
 }
 
@@ -80,6 +80,7 @@ a {
 }
 
 .lead {
+  text-shadow: 0 0 5px white;
   color: teal;
 }
 
@@ -140,6 +141,10 @@ a {
 .darkblue {
   background-color: #00323A;
   color: white;
+}
+
+.teal-shadow > p {
+  text-shadow: teal 0 0 3px;
 }
 
 .vertical-middle {
