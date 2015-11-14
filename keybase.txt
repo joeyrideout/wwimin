@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/wwimin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://wwimin.com
+* I am wwimin (https://keybase.io/wwimin) on keybase.
+* I have a public key with fingerprint 3C10 F9D3 4EB5 E989 7411  9155 34CC 20FD 2280 B4E2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019b6f33aab82de356faa8f5df33dfeb3b381f94b40d3e9224cd1a2ac2d8d14e3f0a",
+            "fingerprint": "3c10f9d34eb5e9897411915534cc20fd2280b4e2",
+            "host": "keybase.io",
+            "key_id": "34cc20fd2280b4e2",
+            "kid": "01019b6f33aab82de356faa8f5df33dfeb3b381f94b40d3e9224cd1a2ac2d8d14e3f0a",
+            "uid": "a8f77b8c97a61ff9125567cce4f40119",
+            "username": "wwimin"
+        },
+        "service": {
+            "hostname": "wwimin.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447126236,
+    "expire_in": 157680000,
+    "prev": "e338e30d8335afec14a940f8b04c610a79ff1e297e23fcc6b430956a261493ae",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSBRRGB67bGUp5UN0I2HeIrM5c85cX0QjiRAjojJKtzMz5+jk7sy2
+u26aBUFsWtGFqAx76CqULz4UhZvmVvZQCy1SSLWWaFhClF0sKAs6I/UQ9Nh5OZzv
+fN/3f//P35szlcvO+h7q831qPgKzUndO1HGbiq2BRt5wrQZeb+RryeRFAhaJRP21
+tsXrvAAEoBkyhRBjQxUtAiWZYqxSyWKYRYkBDagCqiEDCRYkmigi0wJYxKZoqRZA
+BFIB8wU8tZ1qEg6FbSfKbKEJBKpZEBFDIpqqKQgADUgSRKYpCtQSRVUwEBGZsMaN
+eAoWzsARUmi7DGMP/2S8f/D/c+66STsmVBRDNTUFy4BSDYiSJCumSRBFAovuESMk
+7OAgYexdu+yg7fB7C3iGxWyTeGP1+vjrv9B0g0wXCrtR13QDDK+JRkO6J4s2hCZ5
+xPD/dvAbtmOxETJBjIQjtuvwOmBMM2p7lgAhBYiyCOUCntSH7DDx2x5DUmRVYMcr
+Q2LMkkCoEihYKoQSpsQECGtIoKohIFMGAlY0SgERNYWIkJqmbCAoaJKMRRkgDWLC
+ez3tdFxel1hMXM0sI3a1g6N1YcLvvZvcNo3LyuZ806d4q8Vlz5r7Z+EeoZlcd9dw
+2/k5PS2rd1OnM75HX1dRNdFa8bC/a+lbLZ3a0NkXSGVKZnyrOm+nY5mJH++Pjn1c
+G8xdDg98bnvxet/Gs8t8uTvmj48ldt/erCv9yUsr2mtzrtU/Hgl0lGV6E5sLffFE
+65tM3buVF0Z7Qxe/z36y+t3WWPtQ2b3SQ3nHB4pf+g/nZOKlt5K+Uwef4weNzS2L
+lpzZUpl3tXoofj+vJJ9Lh4/B4Ynm+OjCG4dpsmiNuHhxQ8eq2JeB1qbLTY4yLqsN
+5dfKX1XcLJmWSBWfnne6En5w1gZOrskv6mjbnnkW+Pl0Yn/Tua/7y6/oPbHUgRHu
++rbBq59aSrud9ILB9bm/AG7VStI=
+=oy50
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wwimin
+
+==================================================================
+

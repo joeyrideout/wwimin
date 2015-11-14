@@ -158,3 +158,9 @@ a {
 .bottom {
   background-color: whitesmoke;
 }
+
+.secret {
+  text-align: right;
+  color: white;
+  font-size: 12px;
+}
