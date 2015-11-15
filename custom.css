@@ -79,6 +79,10 @@ a {
   margin-bottom: 5px;
 }
 
+.social-padded-left {
+  margin-left: 48px;
+}
+
 .lead {
   text-shadow: 0 0 5px white;
   color: teal;
@@ -155,8 +159,16 @@ a {
   max-width: 100%;
 }
 
-.bottom {
+.grey {
   background-color: whitesmoke;
+}
+
+.teal {
+  color: teal;
+}
+
+.blog {
+  min-height: 333px;
 }
 
 .secret {
