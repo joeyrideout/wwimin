@@ -49,7 +49,7 @@ function minifyAndCleanHtml() {
 
 new nm.minify({
   type: 'yui-css',
-  fileIn: ['static/bootstrap.min.css', 'custom.css'],
+  fileIn: ['custom.css'],
   fileOut: 'wwimin.blob.css',
   callback: function(err, min){
     if (err) {
