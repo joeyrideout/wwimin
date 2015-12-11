@@ -8,7 +8,7 @@ cd wwimin/
 npm install
 chmod +x build.js && node build.js
 ```
-Note: You must have NodeJS installed to do these things.
+Note: You must have [Node.js](https://nodejs.org/) installed to do these things.
 The build script is technically optional, since it just minifies things.
 
 Afterwards, you can upload the whole directory to a static web host of your
