@@ -20,7 +20,6 @@ a {
 
 .bg-image {
   background-image: url("./static/arch.jpg");
-  color: teal;
   background-position: right top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -33,6 +32,7 @@ a {
   background-position: center bottom;
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 368px;
 }
 
 .bg-image-3 {
@@ -41,6 +41,7 @@ a {
   background-position: left top;
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 415px;
 }
 
 .btn-primary {
@@ -78,7 +79,7 @@ a {
 }
 
 .spaced {
-  padding: 15%;
+  padding: 5%;
   color: white;
   font-size: 18px;
 }
@@ -123,10 +124,6 @@ a {
   text-shadow: teal 0 0 3px;
 }
 
-.vertical-middle {
-  margin-top: 45px;
-}
-
 .grey {
   background-color: whitesmoke;
 }
@@ -143,4 +140,10 @@ a {
   text-align: right;
   color: white;
   font-size: 12px;
+}
+
+.btn-pink {
+  background-color: rgba(220,28,88,0.8);
+  color: white;
+  border-color: black;
 }
