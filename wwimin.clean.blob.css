@@ -94,6 +94,10 @@ a {
   padding-top: 30px;
 }
 
+.top-margin {
+  margin-top: 72px;
+}
+
 .bottom-margin-light {
   margin-bottom: 5px;
 }
